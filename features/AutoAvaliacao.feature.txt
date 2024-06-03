@@ -5,4 +5,4 @@ O último cenário bem sucedido
 Imagine aqui, os cenários mal sucedidos da auto-avaliação:
 	Cenário 1
 	Cenário 2
-	Cenário 3
+	Cenário 3(novo then)
