@@ -6,3 +6,6 @@ Imagine aqui, os cenários mal sucedidos da auto-avaliação:
 	Cenário 1
 	Cenário 2
 	Cenário 3(novo then)
+
+Imagine aqui um cenário sem discrepancias
+Imagine aqui um cenário com discrepancias
