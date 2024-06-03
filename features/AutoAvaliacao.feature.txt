@@ -8,4 +8,4 @@ Imagine aqui, os cenários mal sucedidos da auto-avaliação:
 	Cenário 3(novo then)
 
 Imagine aqui um cenário sem discrepancias
-Imagine aqui um cenário com discrepancias
+Imagine aqui um cenário com discrepancias(correção do cenário com discrepancia)
