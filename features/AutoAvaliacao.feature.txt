@@ -1,3 +1,8 @@
 Imagine aqui um cenário bem sucedido
 Mais um cenário bem sucedido
 O último cenário bem sucedido
+
+Imagine aqui, os cenários mal sucedidos da auto-avaliação:
+	Cenário 1
+	Cenário 2
+	Cenário 3
