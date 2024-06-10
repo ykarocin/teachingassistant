@@ -9,5 +9,8 @@ Imagine aqui, os cenários mal sucedidos da auto-avaliação:
 
 Imagine aqui um cenário sem discrepancias
 Imagine aqui um cenário com discrepancias(correção do cenário com discrepancia)
+<<<<<<< HEAD
 
 cenário ajustado de visualização de percentual de discrepância
+=======
+>>>>>>> 794d7cc49fabfdee8acf0a5e1fb5e1c07d6e25a9
